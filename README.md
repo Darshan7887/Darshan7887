@@ -43,7 +43,7 @@ I believe good systems should be:
 
 ---
 
-## 🧠 Languages I Use & Will Master (Roadmap-Aligned)
+## 🧠 Languages I Use 
 
 <div align="center">
 
