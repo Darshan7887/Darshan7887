@@ -1,94 +1,124 @@
 <div align="center">
 
-# 👋 Hi, I’m Darshan Nerkar  
+# 🌌 Hi, I’m Darshan Nerkar  
 ### ☁️ Cloud • ⚙️ DevOps • 🤖 Automation • 🔐 Security
 
-🚀 Building **production-oriented, automation-first systems**  
-⚙️ Focused on **scalability, reliability, security & cost efficiency**  
-🧠 Learning by **building real-world, interview-ready projects**
+<p align="center">
+  <em>Building production-oriented, automation-first systems<br/>
+  with a focus on scalability, reliability, security & cost efficiency</em>
+</p>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+
+<!-- Core Tech Logos -->
+<img src="https://skillicons.dev/icons?theme=dark&i=python,bash,linux,git,github,docker,kubernetes,aws,terraform" />
+
 </div>
 
 ---
 
-## 🔥 About Me
+## 🖤 About Me
 
-I’m a **Cloud & DevOps–focused engineer** who enjoys designing systems that actually resemble how things work in production.  
-My work emphasizes **clean architecture, automation, and explainability** — not flashy demos.
+I’m a **Cloud & DevOps–focused engineer** who builds systems the way they are expected to work in real production environments.  
+My focus is on **clean automation, solid architecture, and explainable engineering** — not toy demos.
 
-I believe strong projects should:
-- Solve **real infrastructure problems**
-- Be **easy to reason about**
-- Stand up to **interview & production discussions**
+I believe good systems should be:
+- ⚙️ Automation-first  
+- 🧠 Easy to reason about  
+- 🔐 Secure by design  
+- 💼 Interview & production ready  
 
 ---
 
 ## 🚀 What I Build
-- ✅ Cloud infrastructure & automation systems  
-- ✅ CI/CD pipelines & DevOps workflows  
-- ✅ Containerized & scalable platforms  
-- ✅ Security-aware and cost-efficient designs  
-- ✅ Hands-on projects inspired by real engineering teams  
+- Cloud infrastructure & automation systems  
+- CI/CD pipelines and DevOps workflows  
+- Containerized and scalable platforms  
+- Security-aware and cost-efficient architectures  
+- Real-world inspired engineering projects  
 
 ---
 
-## 🧠 Skills & Growth Areas
+## 🧠 Languages I Use & Will Master (Roadmap-Aligned)
 
-### ⚙️ Core Engineering
-- Python  
-- Linux  
-- Bash / Shell  
-- Git & GitHub  
+<div align="center">
 
-### ☁️ Cloud & DevOps
-- AWS  
-- Docker  
-- Kubernetes  
-- CI/CD Pipelines  
-- Terraform  
+<img src="https://skillicons.dev/icons?theme=dark&i=python,bash,js,html,css,yaml,json" />
 
-### 🔐 Practices & Concepts
-- DevOps  
-- DevSecOps  
-- Cloud Security  
-- FinOps & Cost Optimization  
-- Automation-First Engineering  
+</div>
+
+### 💡 Language Focus
+- **Python** – automation, scripting, cloud tooling  
+- **Bash / Shell** – Linux & DevOps automation  
+- **YAML** – CI/CD, Kubernetes, IaC  
+- **JSON** – APIs, configs, cloud data  
+- **JavaScript** – tooling, dashboards, automation UI  
+- **HTML & CSS** – internal tools & documentation  
 
 ---
 
-## 📂 What You’ll Find Here
-📌 Real-world Cloud & DevOps projects  
-📌 Automation scripts & tooling  
-📌 Cost optimization & monitoring systems  
-📌 Security-focused DevOps workflows  
-📌 Clean, structured, explainable code  
+## ☁️ Cloud, DevOps & Platform Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?theme=dark&i=aws,docker,kubernetes,terraform,githubactions" />
+
+</div>
+
+- Cloud Platforms (AWS-focused)  
+- Containers & Orchestration  
+- CI/CD & GitOps-style workflows  
+- Infrastructure as Code  
+- Platform & Cloud Automation  
+
+---
+
+## 🔐 Practices & Engineering Mindset
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DevOps-black?style=for-the-badge&logo=devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevSecOps-black?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/FinOps-black?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Security-black?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+</div>
+
+- DevOps & DevSecOps practices  
+- Cloud security & IAM concepts  
+- Cost optimization & FinOps thinking  
+- Reliability & automation-first design  
+
+---
+
+## 📂 What You’ll Find in My GitHub
+- Real-world Cloud & DevOps projects  
+- Automation tools & scripts  
+- CI/CD and infrastructure workflows  
+- Cost optimization & monitoring systems  
+- Clean, structured, explainable code  
 
 ---
 
 ## 🤝 Open to Collaborate On
 - Cloud & DevOps projects  
-- Automation & tooling  
-- Open-source infrastructure ideas  
-- Learning-focused but **production-inspired systems**
-
----
-
-## ⚡ Fun Fact
-I build projects to **survive interviews**, not just collect stars ⭐
+- Automation & platform tooling  
+- Open-source infrastructure systems  
+- Learning-focused but production-inspired builds  
 
 ---
 
 <div align="center">
 
-### 🌱 Learning. Building. Improving — one system at a time.
+### ⚡ *I build projects to survive interviews — not just collect stars.*
+
+</div>
+
+<div align="center">
+
+🌱 **Learning. Building. Improving — one system at a time.**
 
 </div>
